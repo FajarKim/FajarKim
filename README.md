@@ -10,4 +10,4 @@ Don't forget to follow the account below and if you have any questions, don't he
 <div class=pull-left><a href="https://brainly.co.id/profil/FajarKim-32153154"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/brainly_logo.png" width="14"> Brainly </a></div>
 <div class=pull-left><a href="mailto:fajarrkim@gmail.com"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/gmail_logo.png" width="14"> E-Mail </a></div>
 <hr size="0.01px">
-<p style="text-align:center">Don't forget sponsor me</p><p style="text-align:center"><a href="https://github.com/sponsors/FajarKim/"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/sponsor_button.png" width="150"></a></p>
+<center>Don't forget sponsor me</center><center><a href="https://github.com/sponsors/FajarKim/"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/sponsor_button.png" width="150"></a></center>
