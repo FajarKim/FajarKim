@@ -1,6 +1,8 @@
 <h1 align="center">
-    <img src="https://avatars.githubusercontent.com/u/86386385" width="60">
-     <p>Fajar Kim</p>
+    <a href="https://github.com/FajarKim">
+       <img src="https://avatars.githubusercontent.com/u/86386385" width="60">
+       <p>Fajar Kim</p>
+    </a>
 </h1>
 
 Hello everyone 👋🏻! Let me introduce my self. My name is Fajar Kim. I live in Garut, West Java, Indonesia 🇮🇩. I am a Moderator at [Brainly.co.id](https://brainly.co.id/). Actually, I'm still learning in terms of programming. The thing I like most about programming is encrypting multiple programming languages. 
