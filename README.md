@@ -29,7 +29,12 @@ Don't forget to follow the account below and if you have any questions, don't he
 
 <hr size="0.01px">
 <div align="center">
-Don't forget sponsor me
-
-<a href="https://github.com/sponsors/FajarKim/"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/sponsor_button.png" width="150"></a>
+    <p>Don't forget sponsor me</p>
+    <a href="https://github.com/sponsors/FajarKim/"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/sponsor_button.png" width="150">
+        <div align="center">
+             <img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/tap_button_click.gif" width="50">
+             <img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/tap_button_click.gif" width="50">
+             <img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/tap_button_click.gif" width="50">
+        </div>
+    </a>
 </div>
