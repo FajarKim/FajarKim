@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-Hello everyone 👋🏻! I'm Rangga, you can call me Fajar 😊. I come from Garut, West Java, Indonesia 🇮🇩. I am a student of Science programme ⚗️ 🧑🏻‍🔬 🔬. In the world of programming, I prefer to create encrypting codes for several programming languages. Greetings everyone!!!
+Hello everyone 👋🏻! I'm Rangga, you can call me Fajar 😊. I come from Garut, West Java, Indonesia 🇮🇩. I am a student of Science programme ⚗️  🔬. In the world of programming, I prefer to create encrypting codes for several programming languages. Greetings everyone!!!
 
 # Contact Me
 Don't forget to follow the account below and if you have any questions, don't hesitate to ask.
