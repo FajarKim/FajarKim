@@ -1,8 +1,8 @@
 <h1 align="center">
     <a href="https://github.com/FajarKim">
        <img src="https://avatars.githubusercontent.com/u/86386385" width="60">
-       <p>Fajar Kim</p>
-       <P>(Rangga Fajar O_C)</p>
+       <p>Rangga Fajar Oktariansyah</p>
+       <P>(Fajar Kim)</p>
     </a>
 </h1>
 
