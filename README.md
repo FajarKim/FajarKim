@@ -10,11 +10,9 @@ Hello everyone 👋🏻! I'm Rangga, you can call me Fajar 😊. I come from Gar
 [![Visit Website](images/buttons/visit-website.svg)](https://fajarkim.github.io)
 </div>
 
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=FajarKim&theme=default&count_commits=true&show_icons=true&hide_border=false#gh-light-mode-only)](https://github.com/FajarKim)
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=FajarKim&theme=dark&count_commits=true&show_icons=true&hide_border=false#gh-dark-mode-only)](https://github.com/FajarKim)
+[![Stats Card](https://github-readme-stats.vercel.app/api?username=FajarKim&theme=default&count_commits=true&show_icons=true&hide_border=false)](https://github.com/FajarKim)
 
-[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&theme=default&langs_count=20&layout=pie&hide_border=false#gh-light-mode-only)](https://github.com/FajarKim)
-[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&theme=dark&langs_count=20&layout=pie&hide_border=false#gh-dark-mode-only)](https://github.com/FajarKim)
+[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&theme=default&langs_count=20&layout=donut-vertical&hide_border=false)](https://github.com/FajarKim)
 
 ## Contact Me
 Have any questions for me? Or do you want to raise any issues related to problems with this tool? Feel free to contact me using the information below 😉
