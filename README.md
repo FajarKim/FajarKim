@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/FajarKim"><img src="images/photo-profile.png" width="60" alt="Fajar Kim"></a>
+  <a href="https://github.com/FajarKim"><img src="images/photo-profile.png" width="110" alt="Fajar Kim"></a>
   <h2>Fajar Kim</h2>
 </div>
 
