@@ -32,5 +32,10 @@ Call for kindness! Let's help the victims of Palestine with your best donation! 
 [![Donate](images/buttons/usd-donate.svg)](https://islamic-relief.org/appeals/palestine-emergency-appeal)
 [![Donate](images/buttons/idr-donate.svg)](https://donasi.amanpalestin.id/campaign/bantuan-darurat-palestina)
 
+Would you like to make a donation other than the ones mentioned above? Simply visit the following website!
+- [https://donasi.amanpalestin.id](https://donasi.amanpalestin.id)
+- [https://islamic-relief.org](https://islamic-relief.org)
+- [https://www.wfp.org](https://www.wfp.org)
+
 ## Thank You for Donating
 Every donation you make will have a significant impact on those in need ❤️. Thank you for your kindness and compassion!

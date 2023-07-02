@@ -5,6 +5,8 @@
 
 Hello everyone 👋🏻! I'm Rangga, you can call me Fajar 😊. I come from Garut, West Java, Indonesia 🇮🇩. I am a student of Science programme ⚗️ 🔬. In the world of programming, I prefer to create encrypting codes for several programming languages. Greetings everyone!!!
 
+Oh, do you need an Indonesian translator? Feel free to chat with me. Insyaa Allah, I will do it well 😉
+
 <div align="center">
 
 [![Visit Website](images/buttons/visit-website.svg)](https://fajarkim.github.io)
