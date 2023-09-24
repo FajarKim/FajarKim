@@ -14,6 +14,8 @@ Oh, do you need an Indonesian translator? Feel free to chat with me. Insyaa Alla
 
 [![Stats Card](https://github-readme-stats.vercel.app/api?username=FajarKim&theme=default&count_commits=true&show_icons=true&hide_border=false)](https://github.com/FajarKim)
 
+[![Streak Card](https://streak-stats.demolab.com?user=FajarKim&theme=github-light)](https://github.com/FajarKim)
+
 [![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&theme=default&langs_count=20&layout=donut-vertical&hide_border=false)](https://github.com/FajarKim)
 
 ## Contact Me
