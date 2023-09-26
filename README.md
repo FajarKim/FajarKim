@@ -37,6 +37,7 @@ Do you want to check out my social media accounts? Okayy, feel free to click the
 [![Facebook](images/icons/facebook-icon.svg)](https://facebook.com/fajarrkim)
 [![Instagram](images/icons/instagram-icon.svg)](https://instagram.com/fajarkim_)
 [![Twitter](images/icons/twitter-x-icon.svg)](https://twitter.com/fajarkim_)
+[![TikTok](images/icons/tiktok-icon.svg)](https://tiktok.com/@fajarkim_)
 [![YouTube](images/icons/youtube-icon.svg)](https://youtube.com/@FajarHacker)
 </div>
 
