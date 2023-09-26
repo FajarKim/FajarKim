@@ -13,8 +13,8 @@ Many toddlers are trapped under the debris, and rescue teams are facing difficul
 
 Call for kindness! Let's help the victims of the Turkey-Syria earthquakes with your best donation! Your donation will assist in their recovery.
 
-[![Donate](images/buttons/usd-donate.svg)](https://www.wfp.org/support-us/stories/turkiye-syria-earthquake)
-[![Donate](images/buttons/idr-donate.svg)](https://donasi.amanpalestin.id/campaign/bantuan-darurat-turki-suriah)
+[![Donate](https://img.shields.io/badge/USD-Donate%20Now-blue?style=for-the-badge&labelColor=302d41&color=c9cbff)](https://www.wfp.org/support-us/stories/turkiye-syria-earthquake)
+[![Donate](https://img.shields.io/badge/IDR-Donate%20Now-blue?style=for-the-badge&labelColor=302d41&color=c9cbff)](https://donasi.amanpalestin.id/campaign/bantuan-darurat-turki-suriah)
 
 ### Emergency Aid for Palestine
 An Israeli airstrike has destroyed a building in Gaza on August 5th. It has been reported that one civilian has been killed and dozens of others injured as a result.
@@ -29,8 +29,8 @@ The number of Palestinians killed by the ongoing Israeli aggression in Gaza has 
 
 Call for kindness! Let's help the victims of Palestine with your best donation! Your donation will assist in their recovery.
 
-[![Donate](images/buttons/usd-donate.svg)](https://islamic-relief.org/appeals/palestine-emergency-appeal)
-[![Donate](images/buttons/idr-donate.svg)](https://donasi.amanpalestin.id/campaign/bantuan-darurat-palestina)
+[![Donate](https://img.shields.io/badge/USD-Donate%20Now-blue?style=for-the-badge&labelColor=302d41&color=c9cbff)](https://islamic-relief.org/appeals/palestine-emergency-appeal)
+[![Donate](https://img.shields.io/badge/IDR-Donate%20Now-blue?style=for-the-badge&labelColor=302d41&color=c9cbff)](https://donasi.amanpalestin.id/campaign/bantuan-darurat-palestina)
 
 Would you like to make a donation other than the ones mentioned above? Simply visit the following website!
 - [https://donasi.amanpalestin.id](https://donasi.amanpalestin.id)
