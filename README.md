@@ -55,6 +55,6 @@ Are you considering supporting my project by donating to me? Please DO NOT!!
 
 Please visit [this link](DONATE.md) and make a small donation to help the people in need. A small donation goes a long way. ❤️
 
----
+![Line](images/line.svg)
 
 <p align="center"><sub>Made with ❤️</br>Copyright © 2023-present Rangga Fajar Oktariansyah</sub></p>
