@@ -16,6 +16,8 @@ Oh, do you need an Indonesian translator? Feel free to chat with me. Insyaa Alla
 
 <a href="https://github.com/FajarKim"><img src="https://streak-stats.demolab.com?user=FajarKim&theme=catppuccin-macchiato" alt="Streak's Card" width="100%"></a>
 
+<a href="https://github.com/FajarKim"><img src="https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=catppuccin-macchiato" alt="Profile Card" width="100%"></a>
+
 <a href="https://github.com/FajarKim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false" alt="Top Langs Card" width="100%"></a>
 
 ## Contact Me
