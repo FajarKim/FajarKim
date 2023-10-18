@@ -55,7 +55,7 @@ Love my project? Please consider donating to help it improve!
 
 Are you considering supporting my project by donating to me? Please DO NOT!!
 
-Please visit [this link](DONATE.md) and make a small donation to help the people in need. A small donation goes a long way. ❤️
+Please visit [this link](https://fajarkim.github.io/donate) and make a small donation to help the people in need. A small donation goes a long way. ❤️
 
 ![Line](images/line.svg)
 
