@@ -18,7 +18,7 @@ Oh, do you need an Indonesian translator? Feel free to chat with me. Insyaa Alla
 
 <a href="https://github.com/FajarKim"><img src="https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=catppuccin-macchiato" alt="Profile Card" width="100%"></a>
 
-<a href="https://github.com/FajarKim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false" alt="Top Langs Card" width="100%"></a>
+<a href="https://github.com/FajarKim"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FajarKim&title_color=8bd5ca&text_color=cad3f5&icon_color=c6a0f6&bg_color=24273a&langs_count=20&layout=donut-vertical&hide_border=false&exclude_repo=fajarkim.github.io,FajarKim" alt="Top Langs Card" width="100%"></a>
 
 ## Contact Me
 Have any questions for me? Or do you want to raise any issues related to problems with this tool? Feel free to contact me using the information below 😉
